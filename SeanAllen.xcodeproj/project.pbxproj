@@ -13,6 +13,7 @@
 		F4CFF06026FA777300FA8662 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4CFF05E26FA777300FA8662 /* Main.storyboard */; };
 		F4CFF06226FA777500FA8662 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4CFF06126FA777500FA8662 /* Assets.xcassets */; };
 		F4CFF06526FA777500FA8662 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4CFF06326FA777500FA8662 /* LaunchScreen.storyboard */; };
+		F4CFF06D26FA79C900FA8662 /* VideoListScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFF06C26FA79C900FA8662 /* VideoListScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F4CFF06126FA777500FA8662 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4CFF06426FA777500FA8662 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4CFF06626FA777500FA8662 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4CFF06C26FA79C900FA8662 /* VideoListScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F4CFF06126FA777500FA8662 /* Assets.xcassets */,
 				F4CFF06326FA777500FA8662 /* LaunchScreen.storyboard */,
 				F4CFF06626FA777500FA8662 /* Info.plist */,
+				F4CFF06C26FA79C900FA8662 /* VideoListScreen.swift */,
 			);
 			path = SeanAllen;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				F4CFF05D26FA777300FA8662 /* ViewController.swift in Sources */,
 				F4CFF05926FA777300FA8662 /* AppDelegate.swift in Sources */,
 				F4CFF05B26FA777300FA8662 /* SceneDelegate.swift in Sources */,
+				F4CFF06D26FA79C900FA8662 /* VideoListScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
